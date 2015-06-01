@@ -9,11 +9,6 @@
 #import "FISSearchViewController.h"
 
 @interface FISSearchViewController ()
-@property (strong, nonatomic) IBOutlet UITextField *nameSearch;
-@property (strong, nonatomic) IBOutlet UITextField *step1Search;
-@property (strong, nonatomic) IBOutlet UITextField *step2Search;
-@property (strong, nonatomic) IBOutlet UITextField *step3Search;
-@property (strong, nonatomic) IBOutlet UITextField *step4Search;
 
 @end
 
