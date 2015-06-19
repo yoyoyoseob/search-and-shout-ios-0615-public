@@ -13,7 +13,6 @@
 		318F5FC519F81DA100ADA305 /* FISDataStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 318F5FBF19F81DA100ADA305 /* FISDataStore.m */; };
 		318F5FC619F81DA100ADA305 /* FISSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 318F5FC119F81DA100ADA305 /* FISSearchViewController.m */; };
 		318F5FCA19F81DB600ADA305 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 318F5FC719F81DB600ADA305 /* main.m */; };
-		318F5FCB19F81DB600ADA305 /* searchAndShout-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 318F5FC819F81DB600ADA305 /* searchAndShout-Info.plist */; };
 		318F5FCD19F81DBC00ADA305 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 318F5FCC19F81DBC00ADA305 /* InfoPlist.strings */; };
 		318F5FE219F93F0F00ADA305 /* searchAndShout.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 318F5FE019F93F0F00ADA305 /* searchAndShout.xcdatamodeld */; };
 		7DD53D22E968B81358BB917B /* libPods-searchAndShoutTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 034B2405E969669D80DA2785 /* libPods-searchAndShoutTests.a */; };
@@ -267,7 +266,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				318F5FCB19F81DB600ADA305 /* searchAndShout-Info.plist in Resources */,
 				318F5FCD19F81DBC00ADA305 /* InfoPlist.strings in Resources */,
 				D8E17A8C1964331900F1549F /* Main.storyboard in Resources */,
 			);
