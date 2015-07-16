@@ -74,6 +74,8 @@
     if ([self.dances count] == 0) {
         [self generateTestData];
     }
+    
+    
 }
 #pragma mark - Core Data stack
 
